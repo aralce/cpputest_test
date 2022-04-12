@@ -6,5 +6,5 @@ TEST_GROUP(FirstTestGroup)
 
 TEST(FirstTestGroup, FirstTest)
 {
-	FAIL("Hola");
+	FAIL("Test Harness is working");
 }
